@@ -1,0 +1,19 @@
+{
+  "name": "m09",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ability.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/summiecode/m09.git"
+  },
+  "author": "SummieCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/summiecode/m09/issues"
+  },
+  "homepage": "https://github.com/summiecode/m09#readme"
+}
